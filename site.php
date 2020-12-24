@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mad Lib Project</title>
+    <title>MadLib Project</title>
 </head>
 <body>
-    <h1>Your Madlib</h1>
+    <h1>Madlib Project</h1>
+    <h2>Fill out questions, then click submit button.</h2>
+    <h3>Thank you!</h3>
     <form action="madlib.php" method="get">
         <label for="color">Color</label><br />
         <input type="text" id="color" name="user_color" required="required">
