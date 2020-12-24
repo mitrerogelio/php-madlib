@@ -6,7 +6,7 @@
     <title>Mad Lib Project</title>
 </head>
 <body>
-    <h1>Your Madlib</h1>
+    <h1>Your Madlib:</h1>
     <form action="madlib.php" method="get">
         <label for="color">Color</label><br />
         <input type="text" id="color" name="user_color" required="required">
